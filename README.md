@@ -3,7 +3,7 @@ JJrockin/JJrockin is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-## Hi I am Jeronimo Moraes 👋
+## Hi, I am Jeronimo Moraes 👋
 ### Programming is becoming a big part of my life.
 ### I'm a beginner and my goal is to become a Full Stack Developer.
 ### You can find me in any of the platforms below 👇
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ![JJrockin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJrockin&show_icons=true&theme=algolia)
 
-## Tecnologies I'm currently learning & Using
+## Tecnologies I'm currently Learning & Using
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJrockin&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <div style="display: inline_block"><br/>
